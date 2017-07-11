@@ -16,6 +16,7 @@ setup(
     description='A simple Django app to provide a generic view to filter a ListView',
     long_description=README,
     url='https://github.com/Phil147/django-filteredlist',
+    download_url = 'https://github.com/Phil147/django-filteredlist/archive/0.1.tar.gz',
     author='Philipp Fahrenschon',
     author_email='ph.fahrenschon@gmail.com',
     classifiers=[
