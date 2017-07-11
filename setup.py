@@ -15,7 +15,7 @@ setup(
     license='MIT License',
     description='A simple Django app to provide a generic view to filter a ListView',
     long_description=README,
-    url='https://www.example.com/',
+    url='https://github.com/Phil147/django-filteredlist',
     author='Philipp Fahrenschon',
     author_email='ph.fahrenschon@gmail.com',
     classifiers=[
