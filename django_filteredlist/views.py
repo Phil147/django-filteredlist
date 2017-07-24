@@ -2,7 +2,7 @@ from django.db.models import Q
 from django.template import loader
 
 
-class FilteredListView:
+class FilteredListView(object):
     """
     Subclass with Djangos' ListView or e.g. django-tables2 SingleTableView and provide at least the allowed_filters tuple
 
